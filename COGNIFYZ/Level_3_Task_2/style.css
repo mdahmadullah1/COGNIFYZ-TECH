@@ -1,0 +1,407 @@
+.container {
+    /* background-color: whitesmoke; */
+    height: 5390px;
+    background-color: rgb(254, 205, 205);
+}
+
+.first {
+    display: flex;
+}
+
+.im1 {
+    width: 80%;
+    height: 180px;
+    float: left;
+    border-radius: 100%;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+/* .im2{
+    float: right;
+    width: 40%;
+} */
+h1 {
+    margin-top: 48px;
+    padding-top: 25px;
+    text-align: center;
+    margin-left: 120px;
+    font-size: 70px;
+
+}
+
+.header {
+    margin-top: 30px;
+    background-color: rgb(230, 232, 233);
+    height: 70px;
+    padding-top: 40px;
+    padding-left: 12px;
+}
+
+a {
+    font-size: 20px;
+    color: black;
+    padding-left: 90px;
+    /* padding-top: 50px; */
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+.home {
+    display: flex;
+}
+
+.cnt {
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-left: 40px;
+    padding-left: 50px;
+    line-height: 24px;
+}
+
+.imag {
+    width: 40%;
+    float: left;
+
+}
+
+.content {
+    width: 50;
+    float: right;
+}
+
+
+.c1 {
+    width: 40%;
+    float: left;
+}
+
+.c2 {
+    margin-top: 40px;
+    width: 60%;
+    float: right;
+}
+
+.cim {
+    display: flex;
+}
+
+.f {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/OIP.jpeg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    border-radius:10px;
+    
+}
+
+.s {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/fullstack.jpeg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    
+    border-radius:10px;
+    height: 300px;
+}
+
+.t {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/web.jpeg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    
+    border-radius:10px;
+}
+
+.fo {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/mob.jpeg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    
+    border-radius:10px;
+}
+
+
+
+/* ********************************************************* */
+
+
+
+
+.f2 {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/ui.jpg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    
+    border-radius:10px;
+}
+
+.s2 {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/datas.jpeg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    
+    border-radius:10px;
+}
+
+.t2 {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/ml.webp');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    
+    border-radius:10px;
+}
+
+.fo2 {
+    background-color: rgb(212, 240, 231);
+    background-image: url('Images/de.jpg');
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    width: 20%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    padding-left: 20px;
+    margin-left: 28px;
+    height: 300px;
+    border-radius:10px;
+}
+
+
+.hf {
+    margin-top: 280px;
+    text-align: left;
+    font-size: 25px;
+}
+
+.pf {
+    margin-top: 25px;
+    font-size: 20px;
+}
+
+.pf2 {
+    margin-top: 165px;
+    font-size: 20px;
+}
+
+.b1{
+    margin-top: 10px;
+    width: 90%;
+    height: 60px;
+    margin-left: 70px;
+    border: 3px solid black;
+    background-color: rgb(250, 116, 116);
+    color: white;
+    font-size: 22px;
+    border-radius: 6px;
+    
+}
+
+.b2{
+    width: 90%;
+    height: 60px;
+    margin-left: 70px;
+    border: 3px solid black;
+    background-color: rgb(250, 116, 116);
+    color: white;
+    font-size: 22px;
+    border-radius: 6px;
+    
+}
+
+.b1:hover{
+    background-color: brown;
+}
+.b2:hover{
+    background-color: brown;
+}
+
+li{
+   margin-left: 50px;
+   font-size: 20px;
+   padding-top: 15px;
+}
+.ben{
+    display: flex;
+}
+.i1{
+    width: 38%;
+    float: left;
+    height: 40px;
+    border: 3px solid black;
+    padding: 10px;
+    margin-left:88px;
+    border-radius:7px;
+    padding-left:40px;
+    padding-top:25px;
+    font-size:25px;
+    font-weight:bold;
+    background-color:rgb(247, 143, 143);
+    border-radius: 4px;
+}
+.i2{
+    width: 38%;
+    float:right;
+    height: 40px;
+    border: 3px solid black;
+    padding: 10px;
+    margin-left:88px;
+    border-radius:7px;
+    padding-left:40px;
+    padding-top:25px;
+    font-size:25px;
+    font-weight:bold;
+    background-color:rgb(247, 143, 143);
+    border-radius: 4px;
+}
+.apply{
+    display: flex;
+    margin-top: 50px;
+}
+.ap1{
+    height: 60px;
+    float: left;
+    width: 370px;
+    margin-left: 310px;
+    margin-right: 100px;
+    border: 3px solid black;
+    border-radius: 4px;
+    font-size: 22px;
+    background-color: rgb(250, 116, 116);
+    color: white;
+}
+
+.ap2{
+    height: 60px;
+    float: right;
+    width: 370px;
+    border: 3px solid black;
+    border-radius: 4px;
+    font-size: 22px;
+    background-color: rgb(250, 116, 116);
+    color: white;
+}
+
+.ap1:hover{
+    background-color: brown;
+}
+
+.ap2:hover{
+    background-color: brown;
+}
+
+.contact{
+    display: flex;
+    background-color: rgb(247, 143, 143);
+    height: 300px;
+    margin-top: 40px;
+}
+#location-icon {
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+}
+
+#email{
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+    
+}
+
+.box1{
+    margin-top: 30px;
+    width: 48%;
+    float: left;
+    margin-left: 100px;
+}
+
+.box2{
+    margin-top: 40px;
+    width: 48%;
+    float: right;
+}
+
+#fb{
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+}
+
+
+#in{
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+}
+
+#te{
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+}
+
+
+#ph{
+    font-size: 24px; /* Adjust the size as needed */
+    margin-left: 30px;
+}
+
+
+.lh{
+    font-size: 25px;
+    text-align: center;
+}

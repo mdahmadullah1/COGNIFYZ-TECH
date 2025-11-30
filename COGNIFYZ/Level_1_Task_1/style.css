@@ -1,0 +1,109 @@
+body {
+    background-color: beige;
+}
+
+.sub-box {
+    background-color: rgb(218, 218, 137);
+    width: 1260px;
+    height: 2100px;
+    margin-left: 100px;
+    margin-top: 80px;
+    border: 1px solid rgb(97, 97, 66);
+    border-radius: 4px;
+}
+
+.heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.pa {
+    margin-top: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.img {
+    width: 45%;
+    height: 550px;
+    margin-left: 340px;
+    border-radius: 100%;
+    margin-top: 30px;
+}
+
+.fm {
+    margin-top: 80px;
+    background-color: rgb(135, 135, 58);
+    width: 90%;
+    margin-left: 63px;
+    height: 500px;
+    border: 3px solid rgb(93, 93, 4);
+    border-radius: 4px;
+}
+
+.lb {
+    font-size: 25px;
+    font-weight: 790px;
+    padding-left: 88px;
+    margin-top: 30px;
+    padding-top: 15px;
+}
+
+.inp {
+    width: 80%;
+    margin-left: 90px;
+    margin-top: 10px;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding-left: 30px;
+}
+
+.btn {
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 3px;
+    margin-left: 470px;
+    font-size: 16px;
+    margin-top: 35px;
+}
+
+.btn:hover {
+    background-color: rgb(233, 233, 161);
+}
+
+.top {
+    width: 90%;
+    margin-left: 63px;
+    background-color: rgb(147, 147, 48);
+    margin-top: 50px;
+    height: 100px;
+    border: 3px solid rgb(93, 93, 4);
+    border-radius: 4px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 15px;
+    list-style-type: none;
+    padding-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+
+.footer{
+    background-color: rgb(157, 157, 82);
+    border: 3px solid rgb(104, 104, 57);
+    width: 90%;
+    margin-left: 63px;
+    font-size: 22px;
+    height: 160px;
+    border-radius: 4px;
+    padding-left: 40px;
+}
